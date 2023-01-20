@@ -4,4 +4,4 @@ Automation Engineer & Software Developer with experience with JavaScript/Node.js
 
 🔭 I’m currently working on my online presence!
 
-🌱 I’m currently learning UX development and Nest.js
+🌱 I’m currently learning UX development and Nest.js for backend applications.
