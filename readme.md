@@ -1,6 +1,6 @@
 ## Hi there, I'm Victor Baz
 
-Automation Engineer & Software Developer with experience with JavaScript/Node.js, React.js, and more.
+### Automation Engineer & Software Developer with experience with JavaScript/Node.js, React.js, and more.
 
 🔭 I’m currently working on my online presence!
 
@@ -10,7 +10,8 @@ Automation Engineer & Software Developer with experience with JavaScript/Node.js
 
 
 
-Tech Stack
+### Tech Stack
+
 💻 HTML, CSS, JavaScript.
 
 🌐 Node, Express, React.
