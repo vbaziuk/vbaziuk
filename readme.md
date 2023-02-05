@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning UX development and Nest.js for backend applications.
 
-🎓 Studied Computer Engineering at the University at Buffalo.
+🎓 I studied Computer Engineering at the University at Buffalo.
 
 
 
