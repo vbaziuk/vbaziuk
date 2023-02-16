@@ -1,10 +1,12 @@
 ## Hi there, I'm Victor Baz
 
-### Software Developer & Automation Engineer with experience with JavaScript/Node.js, React.js, and more.
+### Software Developer & Automation Engineer with experience with JavaScript, Cucumeber.js, React.js, and more.
 
 🔭 I’m currently working on my online presence!
 
-🌱 I’m currently learning UX development and Nest.js for backend applications.
+🌱 I’m currently learning frontend development and Nest.js for backend applications.
+
+📝 I've worked on test automation using Cucumber.js
 
 🎓 I studied Computer Engineering at the University at Buffalo.
 
@@ -12,10 +14,12 @@
 
 ### Tech Stack
 
-💻 HTML, CSS, JavaScript.
+💻 HTML, CSS, JavaScript, Python, Selenium
 
-🌐 Node, Express, React.
+🌐 Node, Express, React, Nest, Next
 
-🛢 MongoDB.
+🛢 MongoDB
 
-🔧 Firebase, Azure.
+🔧 Firebase, Azure
+
+and some other stuff too
