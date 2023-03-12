@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on my online presence.
 
-🌱 I’m currently learning frontend development and Ex.js for backend applications.
+🌱 I’m currently learning frontend development and Express.js for backend applications with Firebase.
 
 📝 I've worked on test automation using Cucumber.js, CI/CD with Jenkins, and maintaining node modules.
 
