@@ -6,9 +6,9 @@
 
 🌱 I’m currently learning frontend development and Express.js for backend applications with Firebase.
 
-📝 I've worked on automated testing development using Cucumber.js, CI/CD with Jenkins, and node module maintenance.
+📝 I've worked on automated test development using Cucumber.js, CI/CD with Jenkins, and Node.js.
 
-🎓 I studied Computer Engineering at the University at Buffalo. Prior to that I obtained an A.S. in Electrical Engineering.
+🎓 I studied Computer Engineering at the University at Buffalo.
 
 
 
