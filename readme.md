@@ -1,5 +1,3 @@
-## Hi there, I'm Victor Baz
-
 ### Software Developer & Automation Engineer with experience with JavaScript, Cucumber.js, React.js, and more.
 
 🔭 I’m currently working on my online presence.
