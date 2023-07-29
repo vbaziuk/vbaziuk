@@ -2,10 +2,10 @@
 
 ### Tech Stack
 
-💻 Languages: JavaScript, Python, Java
+💻 Languages: JavaScript, Python, Java, Swift
 
 🔧 Frameworks: Node.js, Express.js, React.js, Nest.js, Next.js
 
-🛢 Databases: MongoDB
+🛢 Databases: MongoDB, FireStore
 
 🌐 Cloud Platforms: Firebase, Azure
