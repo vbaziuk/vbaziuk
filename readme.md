@@ -9,3 +9,5 @@
 🛢 Databases: MongoDB, FireStore
 
 🌐 Cloud Platforms: Firebase, Azure
+
+:bulb: areas of interest: full stack development and iOS development
